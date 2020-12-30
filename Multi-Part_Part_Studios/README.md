@@ -32,7 +32,7 @@
 
 * Parts can be isolated or hidden by right-clicking on them.
 
-* “Keep tools” for the boolean subtract part keeps the parts that are subtracted from.
+* “Keep tools” for the boolean subtract part keeps the parts that are subtracted from. If one used the "keep tools" option for the boolean subtract command when making a cap fit over a water bottle, the water bottle would not disapear.
 
 **Here are a few bad practices in multipart modeling:**
 
